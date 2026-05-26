@@ -13,10 +13,10 @@ This project was built as an exercise for **LearnCPP [Chapter 1, lesson x, [ques
 
 ## What I Learned
 Working on this project helped me practice:
-* [Practiced]Concept 1, e.g., Basic standard input/output using std::cin and std::cout
-* [Practiced]Concept 2, e.g., Initializing integer variables
-* [Practiced]Concept 3, e.g., Writing basic functions
-* [Practiced]Concept 4, e.g,. Using operators
+* [Practiced] Concept 1, e.g., Basic standard input/output using std::cin and std::cout
+* [Practiced] Concept 2, e.g., Initializing integer variables
+* [Practiced] Concept 3, e.g., Writing basic functions
+* [Practiced] Concept 4, e.g,. Using operators
 
 ## How to Compile/Run
 This is a standard C++ console application. It can be compiled using any standard C++ compiler (like GCC, Clang, or MSVC).
