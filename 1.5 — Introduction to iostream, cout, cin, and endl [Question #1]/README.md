@@ -1,13 +1,19 @@
 # [Project Name]
 
 ## Description
-[A one or two-sentence summary of what the program does. Example: A simple command-line calculator that takes two numbers and outputs their sum.]
+* This program tells and allows users to enter a number and after receiving an input, the program prints the same input back into the terminal.
 
-This project was built as an exercise for **LearnCPP [Chapter X]**.
+This project was built as an exercise for **LearnCPP [Chapter 1, lesson 5, [question #1] aka 1.5]**.
+
+## Structure of the program
+* I wrote my entire program in a file named Number.cpp.
+* Then declared function named number() in Number.h.
+* Then included IO stream and Number.h in Main.cpp and called the function number().
+* I applied this method to keep Main.cpp very short, clean and easy to manage in future.
 
 ## What I Learned
 Working on this project helped me practice:
-* [Concept 1, e.g., Basic standard input/output using std::cin and std::cout]
+* [Concept 1, e.g., How to build basic programs]
 * [Concept 2, e.g., Initializing integer variables]
 * [Concept 3, e.g., Writing basic functions]
 
