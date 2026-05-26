@@ -1,4 +1,4 @@
-# [Project Name]
+# Project: user_input
 
 ## Description
 * This program lets user enter an integer, then prints double and triple of that integer given by the user.
@@ -10,7 +10,7 @@ This project was built as an exercise for **LearnCPP [Chapter 1, lesson 11 [ques
 * Source files[Integer.cpp]: This! is the actual program. This lets user enter an integer, then the program prints double and triple of that same integer into the terminal.
 * Main files[Main.cpp}: This is the file where execution happens. Integer.h Is declared near the top at Line 2, then in the main function, the function number() is called. The linker then finds the definition of the function number() which is in Integer.cpp, the linker then generates object files for both Main.cpp and Integer.cpp then combines their object files into a single executable file (exe file).
 
-## What I Learned
+## What I learned
 Working on this project helped me practice:
 * [Concept 1, e.g., Basic standard input/output using std::cin and std::cout]
 * [Concept 2, e.g., Initializing integer variables]
