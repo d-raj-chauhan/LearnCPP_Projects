@@ -13,7 +13,7 @@ This project was built as an exercise for **LearnCPP [Chapter 2, lesson 4 [quest
 * [New] Concept 1 e.g., What Parameters are, how they work and how to use them.
 * [New} Concept 2 e.g., Arguments, how they function, how to assign parameters using arguments etc.
 * [New] Concept 3 e.g., Unreferenced parameters and Unnamed parameters.
-* [New] Concept 4 e.g., [Best practice]:- Dont't name a unreferenced parameter but I can optionally give put a name using comments.
+* [New] Concept 4 e.g., [Best practice]:- Dont't name a unreferenced parameter but you can optionally put a name using comments to document what the parameter does.
 
 ## How to Compile/Run
 This is a standard C++ console application. It can be compiled using any standard C++ compiler (like GCC, Clang, or MSVC).
