@@ -9,7 +9,7 @@ This project was built as an exercise for **LearnCPP [Chapter 1, lesson x, [ques
 ## Structure of the program
 * Header files[Integer.h]:- This file declares the function number()
 * Source files[Integer.cpp]:- This file contains the definition of function number()
-* Main files[Main.cpp}:- This file declares Integer.h at line 2, then function calls number() inside main() function.
+* Main files[Main.cpp}:- This file declares Integer.h at line 2 to use number().
 
 ## What I Learned
 Working on this project helped me practice:
