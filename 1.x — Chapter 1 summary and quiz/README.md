@@ -1,4 +1,4 @@
-# Project: Addition and Subtraction
+# Addition and Subtraction
 
 ## Description
 * This program lets user enter an input for 2 variables of data type int named firstInteger, and secondInteger.
