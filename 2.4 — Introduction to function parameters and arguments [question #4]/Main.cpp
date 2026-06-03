@@ -17,8 +17,10 @@ int main()
 	std::cout << "Enter an integer: ";
 	int integer{};
 	std::cin >> integer;
+	
 	std::cout << "Double that number is: " << doubleNumber(integer) << '\n';
 	std::cin.clear();
+	
 	std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 	std::cin.get();
 	
