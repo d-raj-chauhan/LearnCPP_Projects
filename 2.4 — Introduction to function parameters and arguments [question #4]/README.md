@@ -1,13 +1,16 @@
 # Parameters and Arguments
 
 ## Description
-* This program reads an integer from user and stores it in a variable named "integer" then that variable is used as an argument for variable 'x' inside doubleNumber(), which then returns the double of 'x' to std::cout inside main() and the result is printed into console.
+* This program reads an integer from user and stores it in a variable named "integer" then that variable is used as an argument for parameter x inside doubleNumber(), which then returns the double of x to main() and the result is printed into console using std::cout.
 
 This project was built as an exercise for **LearnCPP [Chapter 2, lesson 4 [question #4 and #5] aka 2.4**.
 
 ## Structure of the program
-* [Header files and Source files]: No header and source files this time, the program was short and was fitting well in Main.cpp.
-* [Main files]: This program is entirely written in the Main.cpp .
+* This program consists of only one file:-
+* [Main.cpp]:- 1. In main() variable "integer" is brace initialized, value for "integer" is extraced using std::cin >> integer;.
+  2. In the next statement doubleNumber() called in std::cout << "Double that number is: " << doubleNumber(integer) << '\n' at line 20, "integer" is used as an argument for parameter x of doubleNumber().
+  3. doubleNumber() is defined near the top and it consists of one parameter named x of type int.
+  4. return value of doubleNumber() is printed on console using std::cout.
 
 ## What I learned
 * [New] Concept 1 e.g., What Parameters are, how they work and how to use them.
