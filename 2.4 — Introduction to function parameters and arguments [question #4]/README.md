@@ -7,10 +7,10 @@ This project was built as an exercise for **LearnCPP [Chapter 2, lesson 4 [quest
 
 ## Structure of the program
 * This program consists of only one file:-
-* [Main.cpp]:- 1. In main() variable "integer" is brace initialized, value for "integer" is extraced using std::cin >> integer;.
-  2. In the next statement doubleNumber() called in std::cout << "Double that number is: " << doubleNumber(integer) << '\n' at line 20, "integer" is used as an argument for parameter x of doubleNumber().
-  3. doubleNumber() is defined near the top and it consists of one parameter named x of type int.
-  4. return value of doubleNumber() is printed on console using std::cout.
+* [Main.cpp]:- In main() variable "integer" is brace initialized, value for "integer" is extraced using std::cin >> integer;.
+  * In the next statement doubleNumber() called in std::cout << "Double that number is: " << doubleNumber(integer) << '\n' at line 20, "integer" is used as an argument for parameter x of doubleNumber().
+  * doubleNumber() is defined near the top and it consists of one parameter named x of type int.
+  * return value of doubleNumber() is printed on console using std::cout.
 
 ## What I learned
 * [New] Concept 1 e.g., What Parameters are, how they work and how to use them.
