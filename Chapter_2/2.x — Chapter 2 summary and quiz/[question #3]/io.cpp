@@ -1,6 +1,5 @@
+#include "io.h"
 #include <iostream>
-
-void writeNumber(int x);
 
 int readNumber(int x, int y)
 {
