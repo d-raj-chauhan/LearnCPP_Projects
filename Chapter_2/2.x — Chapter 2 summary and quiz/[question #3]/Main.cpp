@@ -1,9 +1,6 @@
+#include "io.h"
 #include <iostream>
 #include <limits>
-
-void writeNumber(int x);
-
-int readNumber(int x, int y);
 
 int main()
 {
