@@ -1,4 +1,4 @@
-# Sun of integers
+# Sum of integers
 
 ## Description and Structure:
 * this file contains solutions for 3 questions.
@@ -12,6 +12,6 @@ inside a 3rd file (a header file)called io.h, then this is #included in main.cpp
 
 ## What I learned?
 * [Practiced] Concept 1 e.g., Using header files and header guards.
-* [New] Concept 2 e.g., Using best practices for eg:- * #including paired header files.
-* Using header guards.
-* Dividing program into short simple files, then building them one by one, etc.
+* [New] Concept 2 e.g., Using best practices for eg:- ** #including paired header files.
+** Using header guards.
+** Dividing program into short simple files, then building them one by one, etc.
